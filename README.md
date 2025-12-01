@@ -3,7 +3,7 @@ AwaDataVison Analytics - SWE Capstone Project
 A professional data visualization and analytics dashboard with AI-powered insights. Upload CSV files and generate interactive charts with automated data analysis.
 🚀 Live Demo
 
-Deployed Link: [Your Vercel URL Here]
+Deployed Link: https://awa-data-vison.vercel.app
 ✨ Features
 
 Core Functionality
